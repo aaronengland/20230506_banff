@@ -15,12 +15,12 @@
 - 07:30 a.m. - Depart hotel for [Banff National Park Visitor Center](https://www.banfflakelouise.com)
 - 08:00 a.m. - Arrive at Banff National Park
 - 09:00 a.m. - Arrive at Lake Louise
-- --:--      - 32 minute drive to Hike [Tkakkaw](https://www.alltrails.com/trail/canada/british-columbia/takakkaw-falls-trail?u=i&u=i) in [Yoho Narional Park](https://parks.canada.ca/pn-np/bc/yoho)
-- --:--      - 31 minute drive to Hike [Johnston Canyon Lower Falls](https://www.alltrails.com/trail/canada/alberta/johnston-canyon-to-lower-falls?u=i) in Banff
-- --:--      - 32 minute drive to Hike [Tunnel Mountain Trail](https://www.alltrails.com/trail/canada/alberta/tunnel-mountain-summit?u=i&u=i)
-- --:--      - 2 minute drive to Hike [Bow Falls](https://www.alltrails.com/trail/canada/alberta/bow-falls-viewpoint?u=i&u=i)
+- --:--      - 32 minute drive to Hike [Tkakkaw](https://www.alltrails.com/trail/canada/british-columbia/takakkaw-falls-trail?u=i&u=i) in [Yoho Narional Park](https://parks.canada.ca/pn-np/bc/yoho) (35 minutes)
+- --:--      - 31 minute drive to Hike [Johnston Canyon Lower Falls](https://www.alltrails.com/trail/canada/alberta/johnston-canyon-to-lower-falls?u=i) in Banff (46 minutes)
+- --:--      - 32 minute drive to Hike [Tunnel Mountain Trail](https://www.alltrails.com/trail/canada/alberta/tunnel-mountain-summit?u=i&u=i) (1 hour 41 minutes)
+- --:--      - 2 minute drive to Hike [Bow Falls Viewpoint](https://www.alltrails.com/trail/canada/alberta/bow-falls-viewpoint?u=i&u=i) (43 minutes)
 - 03:00 p.m. - Depart Bow Falls
-- 03:50 p.m. - [Lake Minnewanka Cruise](https://www.banffjaspercollection.com/attractions/lake-minnewanka-cruise/)
+- 03:50 p.m. - [Lake Minnewanka Cruise](https://www.banffjaspercollection.com/attractions/lake-minnewanka-cruise/) (60 minutes)
 - 05:00 p.m. - 25 minute drive back to hotel
 
 ---
@@ -29,7 +29,7 @@
 - 07:15 a.m. - Depart hotel for [Coast Canmore Hotel](https://www.coasthotels.com/coast-canmore-hotel-and-conference-centre)
 - 07:20 a.m. - Depart Coast Cannamore Hotel for [Jasper National Park](https://parks.canada.ca/pn-np/ab/jasper)
 - 01:00 p.m. - Arrive at Jasper National Park for [Columbia Ice Field Discovery](https://www.banffjaspercollection.com/attractions/columbia-icefield/)
-- 01:45 p.m. - Board for Columbia Ice Field Discovery
+- 01:45 p.m. - Board for Columbia Ice Field Discovery (all day)
 - 04:00 p.m. - Depart Jasper National Park
 - 07:25 p.m. - Arrive at Coast Canmore Hotel
 
