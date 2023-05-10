@@ -1,4 +1,5 @@
-# 20230506_banff
+# Banff
+
 <img src="https://cdn.getyourguide.com/img/location/5c9394e1a558a.jpeg/99.jpg" alt="Banff" width="700"/>
 
 ---
@@ -43,3 +44,7 @@
 - 06:00 a.m. - Depart hotel for flight
 - 07:50 a.m. - 2 hour flight from Calgary to SLC
 - 10:07 a.m. - Land in SLC
+
+---
+
+[Dog Care](https://github.com/aaronengland/20230506_banff/tree/main/01_dog_care)
