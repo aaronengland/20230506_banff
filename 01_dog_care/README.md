@@ -12,13 +12,13 @@ Their food is individually packaged into containers for each meal which are stor
 
 Neil eats the food in 1 small container for each meal and Finn eats the food in 1 large container for each meal.
 
-<img src="img/food_containers.jpeg" alt="FoodContainers" width="700"/>
+<img src="img/food_containers.jpg" alt="FoodContainers" width="700"/>
 
 Please put their food in ther food dish prior to feeding and then place the container in the sink (rinse it if you would like).
 
 Neil eats out of the small, stainless steel bowl and Finn eats out of the purple, maze dish.
 
-<img src="img/food_bowls.jpeg" alt="FodBowls" width="700"/>
+<img src="img/food_bowls.jpg" alt="FodBowls" width="700"/>
 
 *Important*: I make Finn sit and wait to be given the command "Eat!" before he eats.
 
@@ -32,12 +32,8 @@ If you decide to walk Neil and Finn, please try to give them an hour or 2 for th
 
 Their leashes are on the table in the kitchen. 
 
-<img src="img/leashes.jpeg" alt="FodBowls" width="700"/>
+<img src="img/leashes.jpg" alt="FodBowls" width="700"/>
 
 Neil always walks on the right and Finn always walks on the left.
 
-<img src="img/dogs_on_leash.jpeg" alt="DogsOnLeash" width="700"/>
-
 We typically walk to [Foothills Elementary School](https://foothills.jordandistrict.org/) and back.
-
-
