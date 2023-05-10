@@ -1,5 +1,5 @@
 # 20230506_banff
-<img src="[image URL](https://cdn.getyourguide.com/img/location/5c9394e1a558a.jpeg/99.jpg)" alt="Banff" width="250"/>
+<img src="https://cdn.getyourguide.com/img/location/5c9394e1a558a.jpeg/99.jpg" alt="Banff" width="250"/>
 
 ---
 
