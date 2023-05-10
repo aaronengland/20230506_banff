@@ -37,3 +37,7 @@ Their leashes are on the table in the kitchen.
 Neil always walks on the right and Finn always walks on the left.
 
 We typically walk to [Foothills Elementary School](https://foothills.jordandistrict.org/) and back.
+
+---
+
+[Home](https://github.com/aaronengland/20230506_banff/tree/main)
