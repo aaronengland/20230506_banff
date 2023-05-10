@@ -1,5 +1,5 @@
 # 20230506_banff
-![banff]([image URL](https://cdn.getyourguide.com/img/location/5c9394e1a558a.jpeg/99.jpg))
+![banff](https://cdn.getyourguide.com/img/location/5c9394e1a558a.jpeg/99.jpg)
 
 ---
 
