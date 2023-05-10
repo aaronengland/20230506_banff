@@ -1,5 +1,7 @@
 # 20230506_banff
+![banff]([image URL](https://cdn.getyourguide.com/img/location/5c9394e1a558a.jpeg/99.jpg))
 
+---
 
 ### 2023-05-11 (Thursday)
 - 09:30 a.m. - 30 minute drive to SLC airport
