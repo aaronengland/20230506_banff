@@ -62,6 +62,11 @@ If there is an emergency or if there are any issues please contact me directly.
 
 If I am unavailable, please contact the [veterinarian](https://www.banfield.com/locations/veterinarians/ut/west-jordan/jlg).
 
+Phone:
+```
+801-280-6260
+```
+
 Address:
 ```
 Banfield Pet Hospital of West Jordan
