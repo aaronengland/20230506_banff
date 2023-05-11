@@ -63,10 +63,11 @@ If there is an emergency or if there are any issues please contact me directly.
 If I am unavailable, please contact the [veterinarian](https://www.banfield.com/locations/veterinarians/ut/west-jordan/jlg).
 
 Address:
-
+```
 Banfield Pet Hospital of West Jordan
 7712 S 5600 West
 West Jordan, UT 84081
+```
 
 ---
 
