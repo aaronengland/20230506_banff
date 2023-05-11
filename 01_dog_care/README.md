@@ -60,7 +60,7 @@ We typically walk to [Foothills Elementary School](https://foothills.jordandistr
 
 If there is an emergency or if there are any issues please contact me directly.
 
-If I am unavailable, please contact the [veterinarian](https://www.banfield.com/locations/veterinarians/ut/west-jordan/jlg).
+If I am unavailable, please contact the [veterinarian](https://www.banfield.com/locations/veterinarians/ut/west-jordan/jlg) (Banfield Pet Hospital).
 
 Phone:
 ```
