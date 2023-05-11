@@ -6,7 +6,7 @@
 
 ## Food
 
-Neil (left) and Finn (right) eat twice daily; once in the morning and once in the afternoon/evening.
+Neil (right) and Finn (left) eat twice daily; once in the morning and once in the afternoon/evening.
 
 Their food is individually packaged into containers for each meal which are stored in the fridge.
 
