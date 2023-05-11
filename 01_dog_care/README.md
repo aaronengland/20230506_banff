@@ -24,6 +24,20 @@ Neil eats out of the small, stainless steel bowl and Finn eats out of the purple
 
 ---
 
+## Water
+
+The dogs share water bowls which can be found in the kitchen.
+
+<img src="img/water_bowls.jpg" alt="WaterBowls" width="700"/>
+
+They usually drink the right bowl first and the left bowl only if the right bowl is empty.
+
+Please refill the water bowls with the reverse osmosis water in the jugs in the fridge.
+
+<img src="img/water_jug.jpg" alt="WaterJug" width="700"/>
+
+---
+
 ## Walks
 
 Neil and Finn typically get 1 walk per day. On weekends they walk and play fetch.
