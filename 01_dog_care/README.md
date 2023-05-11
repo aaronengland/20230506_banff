@@ -32,9 +32,11 @@ If you decide to walk Neil and Finn, please try to give them an hour or 2 for th
 
 Their leashes are on the table in the kitchen. 
 
-<img src="img/leashes.jpg" alt="FodBowls" width="700"/>
+<img src="img/leashes.jpg" alt="Leashes" width="700"/>
 
 Neil always walks on the right and Finn always walks on the left.
+
+<img src="img/dogs_on_leash.jpg" alt="DogsOnLeash" width="700"/>
 
 We typically walk to [Foothills Elementary School](https://foothills.jordandistrict.org/) and back.
 
