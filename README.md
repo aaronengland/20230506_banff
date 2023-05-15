@@ -34,7 +34,7 @@
 
 ### 2023-05-14 (Sunday)
 - 11:30 a.m. - 30 minute drive to [Banff Gandola Ride](https://www.banffjaspercollection.com/attractions/banff-gondola/) (bring all of our things)
-- 12:00 p.m. - Banff Gandola Ride (60 minutes)
+- 12:00 p.m. - Banff Gandola Ride (60 minutes; [pics](https://github.com/aaronengland/20230506_banff/tree/main/banff_gandola))
 - 01:00 p.m. - 10 minute drive to hike [Bow Falls Viewpoint](https://www.alltrails.com/trail/canada/alberta/bow-falls-viewpoint?u=i&u=i) (43 minutes)
 - 10:00 p.m. - Return rental car to [Calgary Airport](https://www.yyc.com/) and spend night at [Delta Hotel](https://www.marriott.com/en-us/hotels/yycca-delta-hotels-calgary-airport-in-terminal/overview/?scid=32646fba-0bff-4cab-a6d5-0aafa36d2fec&gclid=Cj0KCQjw9deiBhC1ARIsAHLjR2BFGaTDiX9gfSk7oZpYME6tAnhm5OwO-CUS2QJYhH_yM1QAfD3WNVoaAkFOEALw_wcB&gclsrc=aw.ds)
 
