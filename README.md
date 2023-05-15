@@ -19,7 +19,7 @@
 - 10:00 a.m. - 32 minute drive to hike [Tkakkaw](https://www.alltrails.com/trail/canada/british-columbia/takakkaw-falls-trail?u=i&u=i) in [Yoho National Park](https://parks.canada.ca/pn-np/bc/yoho) (35 minutes)
 - 11:00 a.m. - 31 minute drive to hike [Johnston Canyon Lower Falls](https://www.alltrails.com/trail/canada/alberta/johnston-canyon-to-lower-falls?u=i) in Banff (46 minutes; [pics](https://github.com/aaronengland/20230506_banff/tree/main/johnston_canyon))
 - 12:00 p.m. - 32 minute drive to hike [Tunnel Mountain Trail](https://www.alltrails.com/trail/canada/alberta/tunnel-mountain-summit?u=i&u=i) (1 hour 41 minutes; [pics](https://github.com/aaronengland/20230506_banff/tree/main/tunnel_mountain))
-- 03:50 p.m. - 20 minute drive to [Lake Minnewanka Cruise](https://www.banffjaspercollection.com/attractions/lake-minnewanka-cruise/) (60 minutes)
+- 03:50 p.m. - 20 minute drive to [Lake Minnewanka Cruise](https://www.banffjaspercollection.com/attractions/lake-minnewanka-cruise/) (60 minutes; [pics](https://github.com/aaronengland/20230506_banff/tree/main/lake_minnewanka))
 - 05:00 p.m. - 25 minute drive back to hotel
 
 ---
