@@ -1,6 +1,6 @@
 # Banff
 
-<img src="https://cdn.getyourguide.com/img/location/5c9394e1a558a.jpeg/99.jpg" alt="Banff" width="700"/>
+<img src="https://cdn.getyourguide.com/img/location/5c9394e1a558a.jpeg/99.jpg" alt="Banff" width="100%"/>
 
 ---
 
