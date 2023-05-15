@@ -27,7 +27,7 @@
 ### 2023-05-13 (Saturday)
 - 07:15 a.m. - 2 minute drive to [Coast Canmore Hotel](https://www.coasthotels.com/coast-canmore-hotel-and-conference-centre)
 - 07:20 a.m. - 3 hour drive to [Jasper National Park](https://parks.canada.ca/pn-np/ab/jasper) for [Columbia Ice Field Discovery](https://www.banffjaspercollection.com/attractions/columbia-icefield/)
-- 01:45 p.m. - Board for Columbia Ice Field Discovery (all day)
+- 01:45 p.m. - Board for Columbia Ice Field Discovery (all day; [pics](https://github.com/aaronengland/20230506_banff/tree/main/columbia_ice_field))
 - 04:00 p.m. - 3 hour drive to Coast Canmore Hotel
 
 ---
