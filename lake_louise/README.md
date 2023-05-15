@@ -19,7 +19,3 @@
   <img src="./img/DSC06872-2.JPG" width=33% /> 
   <img src="./img/DSC06904.JPG" width=33% />
 </p>
-
----
-
-[Johnston Canyon](https://github.com/aaronengland/20230506_banff/tree/main/01_dog_care)
