@@ -16,7 +16,6 @@
 
 <p float="left">
   <img src="./img/DSC07321.JPG" width=33% />
-  <img src="./img/IMG_5814.HEIC" width=33% /> 
 </p>
 
 ---
